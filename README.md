@@ -5,7 +5,7 @@ It's a Library Management System console app using Kotlin.
 #Actors\
   *Admin\
   *Faculty\
-  *Student\
+  *Student
 
 #Functionalities:\
 1.Adding a Book\
